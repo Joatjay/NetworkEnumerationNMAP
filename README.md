@@ -1,6 +1,6 @@
 <h1>Network Enumeration with NMAP</h1>
 
-- [<B>HOST ENUMERATION</b>](https://github.com/Joatjay/NetworkEnumerationNMAP)
+- [<b>HOST ENUMERATION</b>](https://github.com/Joatjay/NetworkEnumerationNMAP)
     - [Host Discovery - ICMP Echo Requests(Most Effective Method)](https://github.com/Joatjay/NetworkEnumerationNMAP)
     - [Host and Port Scanning](https://github.com/Joatjay/NetworkEnumerationNMAP)
     - [Saving the Outputs](https://github.com/Joatjay/NetworkEnumerationNMAP)
