@@ -1,0 +1,3 @@
+NMAP host discovery options are utilized to actively discover the online status of target systems. 
+The most optimal approach for recognizing hosts involves the utilization of ICMP echo requests, a method that we will explore in depth.
+Documentation of every single scan is always highly recommended.
